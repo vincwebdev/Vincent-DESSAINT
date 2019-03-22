@@ -1,0 +1,15 @@
+html {
+ color: RoyalBlue;
+ font-size: 20px
+ font-family: verdana;
+ font-syle : italic
+ }
+ 
+h1 {
+ color: Black;
+ font-size: 30px
+ font-family: verdana;
+ font-syle : normal
+ text-transform: uppercase
+ }
+  
