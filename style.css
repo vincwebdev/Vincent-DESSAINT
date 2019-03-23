@@ -2,7 +2,7 @@ html {
  color: RoyalBlue;
  font-size: 15px;
  font-family: verdana;
- font-syle : italic;
+ font-syle: italic;
  }
  
 h1 {
@@ -11,6 +11,6 @@ h1 {
  font-family: verdana;
  font-syle : normal;
  text-transform: uppercase;
- text-decoration:inderline;
+ text-decoration: inderline;
  }
   
