@@ -1,12 +1,12 @@
 html {
- color: RoyalBlue;
+ color: White;
  font-size: 15px;
  font-family: verdana;
  font-syle: italic;
  }
  
 h1 {
- color: Red;
+ color: RoyalBlue;
  font-size: 25px;
  font-family: verdana;
  font-syle : normal;
@@ -15,6 +15,6 @@ h1 {
  }
   
 html {
-  background-color: #00539F;
+  background-color: Black;
 }
 
