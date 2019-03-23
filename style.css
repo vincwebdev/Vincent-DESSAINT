@@ -15,11 +15,11 @@ h1 {
  }
   
 html {
-  background-color: Black;
-  margin: 200px 60px 60px 200px;
+  background-color: CadetBlue;
+ 
 }
 
 body {
-  background-color: Red;
-  margin: 210px 70px 70px 210px;
+  background-color: LightSteelBlue;
+  margin: 200px 60px 60px 200px;
 }
