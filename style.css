@@ -34,5 +34,6 @@ p {
 }
 
 img {
-padding: 10px SlateGrey;
+padding: 10px;
+border: 1px SlateGrey;
  
