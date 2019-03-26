@@ -35,8 +35,11 @@ p {
 }
 
 h2 {
- padding: 10px;
- background: yellow;
- border: 2px solid red;
- margin: 50px 100px 50px 100px;
-}
+  color: White;
+ font-size: 30px;
+ font-family: verdana;
+ font-syle : normal;
+ text-transform: uppercase;
+ text-decoration: underline;
+ text-align: center;
+} 
