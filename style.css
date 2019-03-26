@@ -34,9 +34,9 @@ p {
  text-align: justify;
 }
 
-.box {
- width: 15em;
- border: 1px;
- box: 10px 40px 10px 40px; 
- padding : 8px 10px;
+h2 {
+ padding: 10px;
+ background: yellow;
+ border: 2px solid red;
+ margin: 50px 100px 50px 100px;
 }
