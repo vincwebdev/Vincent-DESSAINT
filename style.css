@@ -7,11 +7,16 @@ html {
  
 h1 {
  color: White;
- font-size: 22px;
+ font-size: 18px;
  font-family: verdana;
  font-syle : normal;
  text-transform: uppercase;
  text-decoration: underline;
+ padding: 10px;
+ background: SlateGrey;
+ border-radius: 15px;
+ border: 1px solid #FFC107 ;
+ margin: 10px 0px 0px 0px;
  }
   
 html {
@@ -36,11 +41,11 @@ p {
 
 h2 {
  padding: 10px;
- background: SlateGrey;
+ background: #FFC107;
  border-radius: 15px;
- border: 2px solid  #FFC107;
+ border: 1px solid  Black;
  margin: 30px 0px 50px 0px;
- color: White;
+ color: Black;
  font-size: 30px;
  font-family: verdana;
  font-Weight: lighter;
